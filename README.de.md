@@ -181,6 +181,5 @@ Linux-Distributionen tut.
 
 ## Lizenz
 
-Der Code steht unter der [MIT-Lizenz](LICENSE). Die Berufsdaten in `src/data/`
-stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) –
+Code: [MIT](LICENSE). Die Berufsdaten in `src/data/`: [CC-BY-4.0](LICENSE-DATA) –
 nachnutzen gern, aber mit Herkunftsangabe.

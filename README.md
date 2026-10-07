@@ -173,6 +173,5 @@ thing for Linux distributions.
 
 ## License
 
-Code under the [MIT License](LICENSE). The occupation data in `src/data/` is
-released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) —
+Code: [MIT](LICENSE). The occupation data in `src/data/`: [CC-BY-4.0](LICENSE-DATA) —
 reuse it, but say where it came from.
