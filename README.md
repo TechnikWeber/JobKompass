@@ -1,5 +1,3 @@
-**English** · [Deutsch](README.de.md)
-
 # JobKompass
 
 A bilingual career-orientation aid for people aged roughly 14 to 25 who are
