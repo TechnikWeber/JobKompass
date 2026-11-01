@@ -15,6 +15,14 @@ just printing a number. Including when the answer is uncomfortable.
 
 **→ [technikweber.github.io/JobKompass](https://technikweber.github.io/JobKompass/)**
 
+<table>
+  <tr>
+    <td align="center" valign="top"><a href="docs/screenshots/home.png"><img src="docs/screenshots/home.png" width="270" alt="JobKompass start page: Which job suits you?"></a><br>Start</td>
+    <td align="center" valign="top"><a href="docs/screenshots/quiz.png"><img src="docs/screenshots/quiz.png" width="270" alt="Question 7 of 25 with the interim ranking next to it"></a><br>Questionnaire with live ranking</td>
+    <td align="center" valign="top"><a href="docs/screenshots/result.png"><img src="docs/screenshots/result.png" width="270" alt="Top match firefighter with score, reasons for and against, and open wishes"></a><br>Result with reasons</td>
+  </tr>
+</table>
+
 ## What it does
 
 - **Three depths.** Three short questions estimate whether you want the
