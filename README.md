@@ -8,12 +8,15 @@
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-green"></a>
 </p>
 
+<p>
+  <a href="https://technikweber.github.io/JobKompass/"><b>Open in your browser</b></a> &nbsp;·&nbsp;
+  <a href="#what-it-does"><b>What it does</b></a>
+</p>
+
 A bilingual career-orientation aid for people aged roughly 14 to 25 who are
 facing the question of what comes after school. It asks about your interests,
 your options and your life — and then explains every recommendation instead of
 just printing a number. Including when the answer is uncomfortable.
-
-**→ [technikweber.github.io/JobKompass](https://technikweber.github.io/JobKompass/)**
 
 <table>
   <tr>
